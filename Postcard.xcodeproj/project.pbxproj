@@ -13,6 +13,10 @@
 		583B382219D8A26800263FDD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 583B382119D8A26800263FDD /* Images.xcassets */; };
 		583B382519D8A26800263FDD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 583B382319D8A26800263FDD /* LaunchScreen.xib */; };
 		583B383119D8A26800263FDD /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583B383019D8A26800263FDD /* PostcardTests.swift */; };
+		583B383E19D8ABDF00263FDD /* IAmTheMoon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 583B383A19D8ABDF00263FDD /* IAmTheMoon.jpg */; };
+		583B383F19D8ABDF00263FDD /* IDreamtOfTheNight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 583B383B19D8ABDF00263FDD /* IDreamtOfTheNight.jpg */; };
+		583B384019D8ABDF00263FDD /* Quads.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 583B383C19D8ABDF00263FDD /* Quads.jpg */; };
+		583B384119D8ABDF00263FDD /* ShuHaRi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 583B383D19D8ABDF00263FDD /* ShuHaRi.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,10 @@
 		583B382A19D8A26800263FDD /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		583B382F19D8A26800263FDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		583B383019D8A26800263FDD /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		583B383A19D8ABDF00263FDD /* IAmTheMoon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IAmTheMoon.jpg; sourceTree = "<group>"; };
+		583B383B19D8ABDF00263FDD /* IDreamtOfTheNight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IDreamtOfTheNight.jpg; sourceTree = "<group>"; };
+		583B383C19D8ABDF00263FDD /* Quads.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Quads.jpg; sourceTree = "<group>"; };
+		583B383D19D8ABDF00263FDD /* ShuHaRi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ShuHaRi.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +98,10 @@
 		583B381819D8A26800263FDD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				583B383A19D8ABDF00263FDD /* IAmTheMoon.jpg */,
+				583B383B19D8ABDF00263FDD /* IDreamtOfTheNight.jpg */,
+				583B383C19D8ABDF00263FDD /* Quads.jpg */,
+				583B383D19D8ABDF00263FDD /* ShuHaRi.jpg */,
 				583B381919D8A26800263FDD /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +204,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				583B384019D8ABDF00263FDD /* Quads.jpg in Resources */,
+				583B384119D8ABDF00263FDD /* ShuHaRi.jpg in Resources */,
 				583B382019D8A26800263FDD /* Main.storyboard in Resources */,
 				583B382519D8A26800263FDD /* LaunchScreen.xib in Resources */,
+				583B383F19D8ABDF00263FDD /* IDreamtOfTheNight.jpg in Resources */,
+				583B383E19D8ABDF00263FDD /* IAmTheMoon.jpg in Resources */,
 				583B382219D8A26800263FDD /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
